@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=potionName\ xPosPotion\ yPosPotion
+comment0.target=Potion(java.lang.String,\ int,\ int)
+comment1.params=
+comment1.target=void\ usePotion()
+comment2.params=hiro
+comment2.target=void\ interact(Hero)
+comment3.params=
+comment3.target=java.lang.String\ getpotionName()
+comment4.params=
+comment4.target=int\ getxPosPotion()
+comment5.params=
+comment5.target=int\ getyPosPotion()
+numComments=6

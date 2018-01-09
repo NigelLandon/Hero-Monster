@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=name\ xPosFarmer\ yPosFarmer\ quest\ weapon\ armor
+comment0.target=Farmer(java.lang.String,\ int,\ int,\ int,\ Weapon,\ Armor)
+comment1.params=hiro
+comment1.target=void\ interact(Hero)
+comment2.params=
+comment2.target=int\ getQuest()
+comment3.params=
+comment3.target=int\ getyPosFarmer()
+comment4.params=
+comment4.target=int\ getxPosFarmer()
+numComments=5

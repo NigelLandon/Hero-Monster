@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=xPosMonster\ yPosMonster\ attack\ health\ speed
+comment0.target=Monster(int,\ int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=void\ killMonster()
+comment2.params=hiro
+comment2.target=void\ interact(Hero)
+comment3.params=
+comment3.target=int\ getEscape()
+comment4.params=
+comment4.target=int\ getxPosMonster()
+comment5.params=
+comment5.target=int\ getyPosMonster()
+numComments=6
